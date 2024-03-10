@@ -34,10 +34,11 @@ body {
 .march_text {
     position: relative;
     text-align: center;
+    padding-top: 30vw;
 }
 
 .animated_march_text {
-    padding-top: 40vw;
+    padding-top: 1em;
     font-family: Arial, sans-serif;
     font-size: 5em;
     background: linear-gradient(to bottom, #4ad382, #3faeec);
